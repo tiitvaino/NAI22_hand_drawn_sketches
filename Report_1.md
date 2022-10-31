@@ -1,6 +1,6 @@
 # Initial Report
 
-## Group 1: Artificial Neural Network (ANN) evaluation for hand-drawn sketches 
+## Project 1: Artificial Neural Network (ANN) evaluation for hand-drawn sketches 
 
 ### Members: Karl-Johan Pilve, Mart Traagel, Tiit Vaino
 
