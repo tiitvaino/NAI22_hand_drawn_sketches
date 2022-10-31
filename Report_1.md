@@ -2,7 +2,7 @@
 
 ## Group 1: Artificial Neural Network (ANN) evaluation for hand-drawn sketches 
 
-### Members: Karl-Johan Pilve, Aleksandra Rammul, Mart Traagel, Tiit Vaino
+### Members: Karl-Johan Pilve, Mart Traagel, Tiit Vaino
 
 ### Supervisor: Tarun Khajuria
 
@@ -33,7 +33,7 @@ Artificial neural networks are interesting to learn about because they can be us
 They can be used to create models that are interpretable by humans and can be used to create systems that are adaptive.
 
 ### Available data
-We can use "The Quick, Draw! Dataset" as our data set https://github.com/googlecreativelab/quickdraw-dataset. There is a collection of 50 million drawings with 345 different categories.
+Our initial plan is to use "The Quick, Draw! Dataset" as our dataset https://github.com/googlecreativelab/quickdraw-dataset. There is a collection of 50 million drawings with 345 different categories.
 
 ### Initial plans:
 
