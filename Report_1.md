@@ -37,4 +37,6 @@ Our initial plan is to use "The Quick, Draw! Dataset" as our dataset https://git
 
 ### Initial plans:
 
-Replicating a paper on "Finding Badly Drawn Bunnies", https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Finding_Badly_Drawn_Bunnies_CVPR_2022_paper.pdf
+Replicating a paper on "Finding Badly Drawn Bunnies", https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Finding_Badly_Drawn_Bunnies_CVPR_2022_paper.pdf .
+We are planning to get similar type results as in paper's Figure 3.
+
