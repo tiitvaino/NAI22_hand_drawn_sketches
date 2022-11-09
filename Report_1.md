@@ -1,8 +1,8 @@
 # Initial Report
 
-## Group 1: Artificial Neural Network (ANN) evaluation for hand-drawn sketches 
+## Project 1: Artificial Neural Network (ANN) evaluation for hand-drawn sketches 
 
-### Members: Karl-Johan Pilve, Aleksandra Rammul, Mart Traagel, Tiit Vaino
+### Members: Karl-Johan Pilve, Mart Traagel, Tiit Vaino
 
 ### Supervisor: Tarun Khajuria
 
@@ -31,6 +31,12 @@ their thoughts and ideas in words.
 
 Artificial neural networks are interesting to learn about because they can be used to tackle problems that are difficult for traditional machine learning algorithms.
 They can be used to create models that are interpretable by humans and can be used to create systems that are adaptive.
+
+### Available data
+Our initial plan is to use "The Quick, Draw! Dataset" as our dataset https://github.com/googlecreativelab/quickdraw-dataset. There is a collection of 50 million drawings with 345 different categories.
+
 ### Initial plans:
 
-Replicating a paper on "Finding Badly Drawn Bunnies", https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Finding_Badly_Drawn_Bunnies_CVPR_2022_paper.pdf
+Replicating a paper on "Finding Badly Drawn Bunnies", https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Finding_Badly_Drawn_Bunnies_CVPR_2022_paper.pdf .
+We are planning to get similar type results as in paper's Figure 3.
+
